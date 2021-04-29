@@ -1,0 +1,5 @@
+This framework is useful in creating custom npcs..
+
+1) To create a npc asset just right click, Create/Tool/Npc/Data.
+2) To create a npc in the scene just click on the Tools window, Npc/Create, you'll have to select your asset and just click the create button.
+3) Profit!
